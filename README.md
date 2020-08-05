@@ -1,3 +1,3 @@
 # BMI Calculator
 
-App created on Flutter
+My second application created on Flutter during Udemy's Flutter course.
